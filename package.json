@@ -1,0 +1,15 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "aplicativo de electron",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deidy Perez",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.7.5"
+  }
+}
